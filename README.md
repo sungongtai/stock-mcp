@@ -49,18 +49,8 @@
 - 获取公司详细信息
 - 获取当前时间
 
-## 项目结构
-
-```
-stock-mcp/
-├── src/
-│   ├── main/
-│   │   ├── java/        # Java 源代码
-│   │   └── resources/   # 配置文件
-│   └── test/            # 测试代码
-├── pom.xml              # Maven 配置文件
-└── README.md            # 项目说明文档
-```
+![img1.png](src%2Fmain%2Fresources%2Fimage%2Fimg1.png)
+![img2.png](src%2Fmain%2Fresources%2Fimage%2Fimg2.png)
 
 
 
