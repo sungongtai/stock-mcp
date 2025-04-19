@@ -1,0 +1,15 @@
+spring:
+  application:
+    name: stock-mcp
+  main:
+    web-application-type: none
+    banner-mode: off
+  ai:
+    mcp:
+      server:
+        name: stock-mcp
+        version: 1.0.0
+logging:
+  pattern:
+    console:
+
