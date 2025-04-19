@@ -1,6 +1,7 @@
 # Stock MCP 项目
 
-这是一个基于 Spring Boot 和 Spring AI 的股票数据服务mcp server，提供股票相关的数据查询和分析功能。
+这是一个基于 Spring Boot 和 Spring AI 的股票数据服务mcp server，提供股票相关的数据查询和分析功能。 
+（仅用来学习mcp server的相关知识）
 
 ## 技术栈
 
